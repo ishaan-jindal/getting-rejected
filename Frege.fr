@@ -1,0 +1,3 @@
+module Main where
+
+main _ = println "Ribbit... I can't help you."
