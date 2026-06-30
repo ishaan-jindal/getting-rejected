@@ -72,6 +72,7 @@ This project features a variety of implementations in many programming languages
 - [PHP](/php.php)
 - [Pike](/Pike.pike)
 - [Plug](/Plug.plg)
+- [Pony](/Pony.pony)
 - [Prolog](/Prolog.pro)
 - [PureScript](/PureScript.purs)
 - [Python](/python.py)
