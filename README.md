@@ -44,6 +44,7 @@ This project features a variety of implementations in many programming languages
 - [Erlang](/Erlang.erl)
 - [F#](/FSharp.fs)
 - [Falcon](/Falcon.fal)
+- [Factor](/Factor.factor)
 - [Fortran](/Fortran.f90)
 - [Frege](/Frege.fr)
 - [GDScript](/GDScript.gd)
