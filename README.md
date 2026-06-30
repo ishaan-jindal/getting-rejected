@@ -29,6 +29,7 @@ This project features a variety of implementations in many programming languages
 - [C#](/CSharp.cs)
 - [C++](/cplusplus.cpp)
 - [Cairo](/Cairo.cairo)
+- [Chapel](/chapel.chpl)
 - [Clojure](/Clojure.clj)
 - [COBOL](/COBOL.cbl)
 - [Coffee](/Coffee.coffee)
